@@ -4,10 +4,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FizzBuzz", "FizzBuzz", "{D86E1E52-ACD4-404E-A3FF-626BC7C92DCD}"
+	ProjectSection(SolutionItems) = preProject
+		FizzBuzz - Instructions.txt = FizzBuzz - Instructions.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzTest", "FizzBuzzTest\FizzBuzzTest.csproj", "{05B5F6DE-25CA-49B1-ABA9-8001B1213D17}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TeaParty", "TeaParty", "{05DCB650-2F06-4A6D-A58C-39B0E0605853}"
+	ProjectSection(SolutionItems) = preProject
+		TeaParty - Instructions.txt = TeaParty - Instructions.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeaPartyTest", "TeaPartyTest\TeaPartyTest.csproj", "{86FB743F-0C3F-48AF-AF43-B30D3C0F3850}"
 EndProject
