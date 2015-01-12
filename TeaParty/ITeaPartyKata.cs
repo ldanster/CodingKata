@@ -2,6 +2,6 @@
 {
     interface ITeaPartyKata
     {
-        string Welcome(string LastName, bool isWoman, bool isSir);
+        string Welcome(string lastName, bool isWoman, bool isSir);
     }
 }
